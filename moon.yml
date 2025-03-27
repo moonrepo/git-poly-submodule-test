@@ -1,0 +1,5 @@
+id: "git-poly-test"
+
+tasks:
+  start:
+    command: "node src/index.mjs"

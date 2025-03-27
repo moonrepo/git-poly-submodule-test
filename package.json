@@ -1,0 +1,6 @@
+{
+  "name": "git-poly-test",
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
