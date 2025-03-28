@@ -2,4 +2,4 @@ id: "git-poly-test"
 
 tasks:
   start:
-    command: "node src/index.mjs"
+    command: "ts-node src/index.ts"
